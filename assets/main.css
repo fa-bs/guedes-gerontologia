@@ -77,12 +77,12 @@ main {
 
 .paragraph {
     font-size: 3rem;
-    font-weight: 300;
+    font-weight: 400;
     font-style: italic;
     text-align: center;
     line-height: 40pt;
     color: transparent;
-    background: -webkit-linear-gradient(315deg, #16B1BB, #AA1DFF);
+    background: -webkit-linear-gradient(315deg, #AA1DFF, #16B1BB);
     background-clip: text;
     -webkit-background-clip: text;
 }
@@ -246,7 +246,7 @@ main {
     .paragraph {
         font-size: 1.3rem;
         line-height: 16pt;
-        font-weight: 400;
+        font-weight: 500;
     }
 
     .faq {

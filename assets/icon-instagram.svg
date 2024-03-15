@@ -5,7 +5,14 @@
         <g transform="matrix(1,0,0,1,69.564,99.3402)">
             <g transform="matrix(1.23443,0,0,1.23443,-231.317,-182.373)">
                 <g transform="matrix(0.992656,0,0,0.992656,404.082,-67.2523)">
-                    <circle cx="776.5" cy="821.5" r="34.5" style="fill:#0D82A8;"/>
+                    <clipPath id="_clip1">
+                        <circle cx="776.5" cy="821.5" r="34.5"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g transform="matrix(0.816087,-0,-0,0.816087,742,787)">
+                            <use xlink:href="#_Image2" x="0" y="-0" width="84.55px" height="84.55px" transform="matrix(0.994704,0,0,0.994704,0,0)"/>
+                        </g>
+                    </g>
                 </g>
                 <g transform="matrix(0.30101,0,0,0.30101,1129.53,642.305)">
                     <path d="M120.426,293.715C105.036,293.715 92.515,306.234 92.515,321.623L92.515,382.069C92.515,397.459 105.036,409.979 120.426,409.979L180.87,409.979C196.26,409.979 208.78,397.459 208.78,382.069L208.78,321.623C208.78,306.234 196.26,293.715 180.87,293.715L120.426,293.715ZM180.87,422.006L120.426,422.006C98.405,422.006 80.489,404.091 80.489,382.069L80.489,321.623C80.489,299.603 98.405,281.688 120.426,281.688L180.87,281.688C202.891,281.688 220.808,299.603 220.808,321.623L220.808,382.069C220.808,404.091 202.891,422.006 180.87,422.006Z" style="fill:white;fill-rule:nonzero;"/>
@@ -15,4 +22,7 @@
             </g>
         </g>
     </g>
+    <defs>
+        <image id="_Image2" width="85px" height="85px" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCABVAFUDAREAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAwIABQYB/8QAJBAAAwACAgICAQUAAAAAAAAAAAECESExUUGBEmFCcZGhwfD/xAAaAQEBAAMBAQAAAAAAAAAAAAADBAAGBwEC/8QAGREAAwEBAQAAAAAAAAAAAAAAAAIDAREh/9oADAMBAAIRAxEAPwBjcjgRhhhjeDMw9zOh0xVUpnMimKql05huhlUtnMimMql05h1QyqWzmRVDKpdOYdPodVLZzIdC4pYs/DeGonGDG8GZnT3M6HTFVSqcyKYyqWzmHTGVS6cw6YyqWzmRTGVS6cw6YyqWzmRT2Mql05ht/QyqWzmHT2Lilqz8OhbNLzOnC8zodMVVKpzDbGVS2cyKYyqXTmHTGVS2cw6oZVLpzIpjKpbOYdPQyqXTmRTGVS2cw6pcDKpdOZDrY2KWLPw6CmaUqnCJzDpjKpbOZFMZVLpzDpjKpbOYbYyqXTmQ6GVS2cw6oZVLpzDbGVS2cw6rWUMql05k0++BlUtnMN0vy9C4pYs/DoKZpSqcInMOmMql05kVQyqWzmG6GVS2cyGxlUunMNsZVLZzDqhlUunMOmMqls5kfJehlUunMhv0Mqls5kfLpZGxS1Z+G/pmkqpwecyHQyqXTmHTGVS2cyG+RlUunMN12Oqls5h0/sVVLpzDqhlUtnMiq2Oql05h3QqqWzmRT32xlUunMjPTGxSxZ+G/qjSlU4ROZFMZVLZzDpjKpdOZFV4GVS2cw6YyqXTmQ6GVS2cw6fIyqXTmFVPoZVLZzJqu/AyqXTmHT0/KGVS2cyFT8ZFxSxZ+G/pmlKpwicyKYyqXTmHT6GVS2cyHSaGVS6cw6exlUtnMi342Mql05h00Mqls5h0/KGVS6cw6rCQyqWzmQ3ymMql05kZSb5x+4uYWKmZh0FV4NKVTg85ht7HVS6cyG0Mqls5h0xVUunMOn6HVS2cyKYyqXTmG6QyqXTmHVdvbGVS2cyLesjKpdOYbyhcwsVOHlfoveD0+zfVRp6qcSnMN1rIyqWzmHT2Mql05kUxlUtnMNvpjKpdOZFP/ADGVS2cw6rKwMql05ht/YyqWzmRTz6FzCxV4ec5f8Hp9mNU+EjDDd5bZqq4cfmmB23kZcLZrgbfL6GzC6aYQ+cDLhbNcDb0xlwummBtvAy4WzXCLbw3kZcLppgec8+RcwsVcJTynrg9Ps9fWWYYZn46/sww//9k="/>
+    </defs>
 </svg>
