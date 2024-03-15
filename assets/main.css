@@ -81,6 +81,10 @@ main {
     font-style: italic;
     text-align: center;
     line-height: 40pt;
+    color: transparent;
+    background: -webkit-linear-gradient(315deg, #16B1BB, #AA1DFF);
+    background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .faq {
