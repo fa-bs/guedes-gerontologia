@@ -229,8 +229,8 @@ main {
 
 @media screen and (max-width: 576px) {
     main {
-        width: 315px;
-        min-width: 315px;
+        width: 350px;
+        min-width: 350px;
     }
 
     .wrapper>img {
